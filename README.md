@@ -1,3 +1,3 @@
 # Learn Software
 
-This is repo contains walk throughs of tech books
+Walk through of Practical Object-Oriented Design by Sandi Metz
